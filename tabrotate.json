@@ -1,29 +1,29 @@
 {
-  "settingsReloadIntervalMinutes": 1,
+  "settingsReloadIntervalMinutes": 15,
   "fullscreen": true,
   "autoStart": true,
-  "lazyLoadTabs": false,
+  "lazyLoadTabs": true,
   "closeExistingTabs": true,
   "websites": [
     {
       "url": "https://ww19.autotask.net/",
       "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://status.worxspace.nl/status/internetconnectivity",
       "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://status.worxspace.nl/status/publiccloudservices",
       "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://status.worxspace.nl/status/sharedcloudservices",
       "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 60
     }
   ]
 }
