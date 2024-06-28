@@ -20,11 +20,6 @@
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
-        {
-      "url": "https://allestoringen.nl/",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
     {
       "url": "https://status.worxspace.nl/status/sharedcloudservices",
       "duration": 10,
